@@ -1,0 +1,4 @@
+nc: 1
+path: /mnt/c/Python/CodeOrNot/YOLO/dataset
+train: images/train
+val: images/validation
