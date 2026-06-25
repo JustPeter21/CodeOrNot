@@ -1,0 +1,4 @@
+nc: 1
+path: /mnt/c/Python/CodeOrNot/Dataset/DS_Y8n-obb
+train: images/train
+val: images/validation
